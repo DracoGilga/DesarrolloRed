@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadSinHilos\\AppSinHilos.csproj": {}
+    "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadesConHilos\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadSinHilos\\AppSinHilos.csproj": {
+    "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadesConHilos\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadSinHilos\\AppSinHilos.csproj",
-        "projectName": "AppSinHilos",
-        "projectPath": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadSinHilos\\AppSinHilos.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadesConHilos\\Ejercicio1\\Ejercicio1.csproj",
+        "projectName": "Ejercicio1",
+        "projectPath": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadesConHilos\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadSinHilos\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\noveno\\Actividades\\DesarrolloRed\\DesarrolloRed\\ActividadesConHilos\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
